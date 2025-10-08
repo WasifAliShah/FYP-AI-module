@@ -1,5 +1,6 @@
 # Ignore virtual environment
 deepface_env/
+venv/
 
 # Python cache
 __pycache__/
